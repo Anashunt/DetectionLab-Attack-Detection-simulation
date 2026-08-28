@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository documents a hands-on **DetectionLab** environment built to simulate a small Windows enterprise network and practice defensive security operations from a **SOC perspective**.
+This repository documents a hands-on **Active Directory** environment built to simulate a small Windows enterprise network and practice defensive security operations from a **SOC perspective**.
 
 The objective of this lab was not simply to deploy the environment, but to use it as a practical training platform for:
 
