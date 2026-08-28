@@ -1,4 +1,4 @@
-```markdown
+
 # DetectionLab — Blue Team Detection & Investigation
 
 ## Overview
