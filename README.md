@@ -203,6 +203,3 @@ Detection
 ```
 
 The accompanying **PDF** contains the detailed technical documentation and investigation results, while the `Screenshots/` directory provides supporting evidence from the lab environment.
-```
-
-انسخه كما هو وضعه في ملف `README.md` في الريبو. جاهز للاستخدام مباشرة.
